@@ -1,1 +1,1 @@
-# HackerRank-Python-Basic-Certificate-Solutions
+# Python (Basic) Skills Certification Test
